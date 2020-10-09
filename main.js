@@ -122,7 +122,7 @@ console.log(addNumber(2,4));
 
 // JavaScript Objects:
 var populIndia = {
-    // Propert : Value
+    // Property : Property Value
     states : 29,
 
     union : 11,
